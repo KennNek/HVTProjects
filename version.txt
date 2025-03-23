@@ -1,2 +1,2 @@
-latest_version=1.0.0
+latest_version=1.0.1
 download_url=https://github.com/KennNek/HVTProjects/releases/download/Releases/app.exe
